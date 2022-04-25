@@ -1,5 +1,6 @@
 .container
 {
+    border: black solid 2px;
     width: 80vw;
     height: 90vh;
     font-family: 'League Spartan';
